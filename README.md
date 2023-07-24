@@ -1,4 +1,4 @@
-# 🚀 [Projeto Nome]: Implementação do Wazuh SIEM para Monitoramento de Segurança 🛡️
+# 🚀 Implementação do Wazuh SIEM para Monitoramento de Segurança 🛡️
 
 ## Descrição
 Neste repositório, você encontrará informações sobre a instalação e configuração do Wazuh SIEM para monitorar proativamente a segurança de nosso ambiente. O Wazuh SIEM nos fornece uma visão abrangente de nossa infraestrutura, permitindo detectar atividades suspeitas, analisar incidentes e responder rapidamente a possíveis violações de segurança. Esta ferramenta desempenha um papel crucial na proteção de nossos ativos de informações e na manutenção de um ambiente seguro para todos os funcionários.
